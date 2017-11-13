@@ -1,4 +1,4 @@
-FROM arm32v7/debian:jessie-slim
+FROM resin/rpi-raspbian
 
 MAINTAINER Miklós Galicz <gnick666@gmail.com>
 
